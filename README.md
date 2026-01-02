@@ -1,4 +1,4 @@
-this is the unofficial repo for an unofficial mod of super smash bros ultimate
+this is the unofficial repo for an unofficial mod of super smash bros ultimate.
 this repo is for development purposes only. this is separate from the final releases
 and not intended to be used raw.
 
