@@ -1,0 +1,11 @@
+display_name = "project ui2k"
+authors = "mayamia"
+version = "github edition"
+description ="""
+a familiar face in a brand new place!
+ui2k is the successor of Project UI, the PM
+inspired UI overhaul for ssb4. with an all
+new style & a more competent maya behind it,
+i plan on pushing smash ult's ui to new heights!
+"""
+category = "UI"
